@@ -2,32 +2,23 @@
 
 Git is a version control system. It helps you:
 
-Track changes in your code.
-
-Revert to earlier versions if something breaks.
-
-Collaborate with teammates without overwriting each other’s work.
+1. Track changes in your code.
+2. Revert to earlier versions if something breaks.
+3. Collaborate with teammates without overwriting each other’s work.
 
 
-Create an account at https://github.com.
-
-Create a new repository:
-
-Click New Repository.
-
-Name it (e.g., my-first-project).
-
-Choose public/private.
-
-Click Create Repository.
-
-Copy the repo URL (HTTPS or SSH).
+How to make a repository:
+1.Create an account at https://github.com.
+2. Create a new repository:
+3. Click New Repository.
+4. Name it the repository.
+5. Choose public/private.
+6. Click Create Repository.
+7. Copy the repository URL.
 
 
 WebStorm is an editor (an IDE) designed for web development. It helps you:
 
-Write and organize your code.
-
-Manage Git without typing all commands.
-
-Debug, run, and test your applications.
+1. Write and organize your code.
+2. Manage Git without typing all commands.
+3. Debug, run, and test your applications.
